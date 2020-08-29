@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ММДО</string>
+    <string name="limitations_count">Количество ограничений:</string>
+    <string name="createGraphic">График</string>
+    <string name="solutionInequality">Решение</string>
+    <string name="function">Целевая фунция:</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+</resources>
